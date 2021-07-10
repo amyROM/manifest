@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="amyROM"
+           fetch="https://github.com/amyROM/"
+           revision="rosie" />
+
+  <!-- amyROM additions -->
+  <project path="android" name="android" remote="amyROM" />
+  <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="amyROM" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="amyROM" />
+  <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="amyROM" />
+  <project path="vendor/lineage" name="vendor_lineage" remote="amyROM" />
+
+</manifest>
