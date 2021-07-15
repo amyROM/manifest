@@ -17,9 +17,13 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
+  <project path="frameworks/base" name="frameworks_base" remote="amyROM" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="amyROM" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="amyROM" />
   <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="amyROM" />
+  <project path="packages/apps/Trebuchet" name="packages_apps_Trebuchet" remote="amyROM" />
+  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="amyROM" />
+  <project path="packages/apps/Widget" name="packages_apps_Widget" remote="amyROM" />
   <project path="vendor/lineage" name="vendor_lineage" remote="amyROM" />
 
 </manifest>
