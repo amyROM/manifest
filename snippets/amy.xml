@@ -4,6 +4,10 @@
   <remote name="amyROM"
            fetch="https://github.com/amyROM/"
            revision="rosie" />
+  
+  <remote name="devices"
+          fetch="https://github.com/amyROM-devices/"
+          revision="rosie">
 
   <!-- amyROM additions -->
   <project path="android" name="android" remote="amyROM" />
