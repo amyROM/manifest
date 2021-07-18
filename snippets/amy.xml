@@ -7,7 +7,7 @@
   
   <remote name="devices"
           fetch="https://github.com/amyROM-devices/"
-          revision="rosie">
+          revision="rosie" />
 
   <!-- amyROM additions -->
   <project path="android" name="android" remote="amyROM" />
