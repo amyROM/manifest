@@ -51,3 +51,9 @@ CesiumOS
 LineageOS Modded
 
 Project Sakura
+
+Fosshost for providing us with Sabina
+
+<hr>
+
+<img src="https://sabina.amyrom.ml/fosshost.org_Host_Dark.png" alt="Proudly hosted at Fosshost" width="200">
