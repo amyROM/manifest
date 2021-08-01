@@ -26,7 +26,6 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
   <project path="frameworks/base" name="frameworks_base" remote="amyROM" />
-  <project path="packages/apps/ConfigCenter" name="packages_apps_ConfigCenter" remote="amyROM" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="amyROM" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="amyROM" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="amyROM" />
