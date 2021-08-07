@@ -25,7 +25,9 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
+  <project path="device/lineage/sepolicy" name="device_lineage_sepolicy" remote="amyROM" />
   <project path="frameworks/base" name="frameworks_base" remote="amyROM" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="amyROM" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="amyROM" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="amyROM" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="amyROM" />
