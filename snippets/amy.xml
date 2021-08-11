@@ -35,6 +35,6 @@
   <project path="packages/apps/Trebuchet" name="packages_apps_Trebuchet" remote="amyROM" />
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="amyROM" />
   <project path="packages/apps/Widget" name="packages_apps_Widget" remote="amyROM" />
-  <project path="vendor/lineage" name="vendor_lineage" remote="amyROM" />
+  <project path="vendor/amy" name="vendor_amy" remote="amyROM" />
 
 </manifest>
