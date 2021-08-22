@@ -8,6 +8,9 @@
   <remote name="devices"
           fetch="https://github.com/amyROM-devices/"
           revision="rosie" />
+  
+  <remote name="gitlab"
+          fetch="https://gitlab.com/" />
 
   <!-- amyROM additions -->
   <project path="android" name="android" remote="amyROM" />
