@@ -28,13 +28,17 @@
   <project path="device/lineage/sepolicy" name="device_lineage_sepolicy" remote="amyROM" />
   <project path="frameworks/base" name="frameworks_base" remote="amyROM" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="amyROM" />
+  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="amyROM" />
+  <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="amyROM" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="amyROM" />
+  <project path="packages/apps/LineageParts" name="packages_apps_LineageParts" remote="amyROM" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="amyROM" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="amyROM" />
   <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="amyROM" />
   <project path="packages/apps/Trebuchet" name="packages_apps_Trebuchet" remote="amyROM" />
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="amyROM" />
   <project path="packages/apps/Widget" name="packages_apps_Widget" remote="amyROM" />
+  <project path="packages/inputs/LatinIME" name="packages_inputs_LatinIME" remote="amyROM" />
   <project path="vendor/amy" name="vendor_amy" remote="amyROM" />
 
 </manifest>
