@@ -36,23 +36,18 @@ You can download the produced builds done from [amyGSI Channel](https://t.me/amy
 
 Credits
 -------
-LineageOS
-
-ProtonAOSP
-
-crDroid
-
-Bliss
-
-WaveOS
-
-CesiumOS
-
-LineageOS Modded
-
-Project Sakura
-
-Fosshost for providing us with Sabina
+- LineageOS
+- ProtonAOSP
+- crDroid
+- Bliss
+- WaveOS
+- CesiumOS
+- LineageOS Modded
+- Project Sakura
+- GrapheneOS
+- StellarOS
+- DivestOS
+- Fosshost for providing us with Sabina
 
 <hr>
 
