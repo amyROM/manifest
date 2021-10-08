@@ -20,6 +20,9 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <!-- CodeAurora additions -->
+  <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="styx" />
+
   <!-- General -->
   <project path="vendor/styx" name="vendor_styx" remote="styx" />
 
