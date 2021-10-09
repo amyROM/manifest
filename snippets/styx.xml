@@ -23,7 +23,14 @@
   <!-- CodeAurora additions -->
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="styx" />
 
+  <!-- External -->
+  <project path="external/selinux" name="external_selinux" remote="styx" />
+
   <!-- General -->
   <project path="vendor/styx" name="vendor_styx" remote="styx" />
+
+  <!-- System -->
+  <project path="system/core" name="system_core" remote="styx" />
+  <project path="system/vold" name="system_vold" remote="styx" />
 
 </manifest>
