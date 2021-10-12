@@ -49,6 +49,10 @@
 
   <!-- External -->
   <remove-project name="platform/external/selinux" />
+  <remove-project name="platform/external/tinycompress" />
+
+  <!-- Hardware -->
+  <remove-project name="platform/hardware/libhardware"/>
 
   <!-- System -->
   <remove-project name="platform/system/core" />
