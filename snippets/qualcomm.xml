@@ -10,10 +10,15 @@
     <!-- add guards for CAF repositories -->
     <linkfile src="os_pickup.bp" dest="hardware/qcom-caf/msm8996/Android.bp" />
     <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/msm8996/Android.mk" />
+    <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm8150/Android.bp" />
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/sm8150/Android.mk" />
   </project>
 
   <project path="hardware/qcom-caf/msm8996/audio" name="hardware_qcom_audio" remote="styx" revision="S-msm8996" />
   <project path="hardware/qcom-caf/msm8996/display" name="hardware_qcom_display" remote="styx" revision="S-msm8996" />
   <project path="hardware/qcom-caf/msm8996/media" name="hardware_qcom_media" remote="styx" revision="S-msm8996" />
+  <project path="hardware/qcom-caf/sm8150/audio" name="hardware_qcom_audio" remote="styx" revision="S-sm8150" />
+  <project path="hardware/qcom-caf/sm8150/display" name="hardware_qcom_display" remote="styx" revision="S-sm8150" />
+  <project path="hardware/qcom-caf/sm8150/media" name="hardware_qcom_media" remote="styx" revision="S-sm8150" />
 
 </manifest>
