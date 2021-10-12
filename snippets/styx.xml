@@ -6,6 +6,7 @@
            fetch="https://github.com/StyxProject" />
 
   <!-- Build repositories -->
+  <project path="bionic" name="bionic" remote="styx"/>
   <project path="build/make" name="build" remote="styx" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
