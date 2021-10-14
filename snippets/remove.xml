@@ -54,6 +54,9 @@
   <!-- Hardware -->
   <remove-project name="platform/hardware/libhardware"/>
 
+  <!-- Packages -->
+  <remove-project name="platform/packages/apps/Settings" />
+
   <!-- System -->
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/vold" />
