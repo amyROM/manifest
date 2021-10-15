@@ -28,6 +28,9 @@
   <project path="external/selinux" name="external_selinux" remote="styx" />
   <project path="external/tinycompress" name="external_tinycompress" remote="styx" />
 
+  <!-- Frameworks -->
+  <project path="frameworks/base" name="frameworks_base" remote="styx" />
+
   <!-- General -->
   <project path="vendor/styx" name="vendor_styx" remote="styx" />
 
