@@ -37,6 +37,9 @@
   <!-- Hardware -->
   <project path="hardware/libhardware" name="hardware_libhardware" remote="styx" />
 
+  <!-- libcore -->
+  <project path="libcore" name="libcore" remote="styx" />
+
   <!-- Packages -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="styx" />
 
