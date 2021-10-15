@@ -1097,5 +1097,6 @@
   <include name="snippets/qualcomm.xml" />
   <include name="snippets/remove.xml" />
   <include name="snippets/styx.xml" />
+  <include name="snippets/proton.xml" />
 
 </manifest>
