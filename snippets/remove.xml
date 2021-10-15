@@ -62,6 +62,7 @@
   
   <!-- Packages -->
   <remove-project name="platform/packages/apps/Settings" />
+  <remove-project name="platform/packages/modules/Connectivity" />
 
   <!-- System -->
   <remove-project name="platform/system/core" />
