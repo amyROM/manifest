@@ -41,6 +41,7 @@
   <project path="libcore" name="libcore" remote="styx" />
 
   <!-- Packages -->
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="styx" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="styx" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="styx" />
   <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" remote="styx" />
