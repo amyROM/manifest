@@ -34,6 +34,7 @@
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="styx" />
   <project path="frameworks/base" name="frameworks_base" remote="styx" />
+  <project path="frameworks/native" name="frameworks_native" remote="styx" />
 
   <!-- General -->
   <project path="vendor/styx" name="vendor_styx" remote="styx" />
