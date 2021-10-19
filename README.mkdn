@@ -12,7 +12,7 @@ repo init -u git://github.com/amyROM/android.git -b rosie
 ```
 Then to sync up:
 ```
-repo sync
+repo sync -j$(nproc --all)
 ```
 After setting up device trees, to build, use these commands, adapting 2nd one accordingly:
 ```
