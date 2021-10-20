@@ -18,7 +18,7 @@ After setting up device trees, to build, use these commands, adapting 2nd one ac
 ```
 . build/envsetup.sh
 lunch amy_<codename>-eng
-mka bacon -j$(nproc --all)
+mka bacon -j8
 ```
 
 
