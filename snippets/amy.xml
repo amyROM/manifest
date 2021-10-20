@@ -10,7 +10,7 @@
           revision="rosie" />
 
   <!-- amyROM additions -->
-  <project path="android" name="android" remote="amyROM" />
+  <project path="manifest" name="manifest" remote="amyROM" />
   <project path="bootable/recovery" name="bootable_recovery" remote="amyROM" />
   <project path="build/make" name="build_make" groups="pdk" remote="amyROM">
     <copyfile src="core/root.mk" dest="Makefile" />
