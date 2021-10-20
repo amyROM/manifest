@@ -1098,5 +1098,6 @@
   <include name="snippets/remove.xml" />
   <include name="snippets/styx.xml" />
   <include name="snippets/proton.xml" />
+  <include name="snippets/aospa.xml" />
 
 </manifest>

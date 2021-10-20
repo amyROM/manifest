@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="bitbucket"
+           fetch="https://bitbucket.org"
+           revision="sapphire" />
+
+  <project path="vendor/google/gms" name="ThankYouMario/proprietary_vendor_google_gms" remote="bitbucket" />
+</manifest>
