@@ -10,7 +10,7 @@ To initialize your local repository using the amyROM trees, use a command like t
 ```
 repo init -u git://github.com/amyROM/android.git -b rosie
 ```
-Then to sync up:
+Then to sync up: (If using more Than 12 cores use repo sync -j8)
 ```
 repo sync -j$(nproc --all)
 ```
