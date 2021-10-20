@@ -5,6 +5,9 @@
            revision="S"
            fetch="https://github.com/StyxProject" />
 
+  <!-- Android Runtime -->
+  <project path="art" name="art" remote="styx" />
+
   <!-- Build repositories -->
   <project path="bionic" name="bionic" remote="styx"/>
   <project path="build/make" name="build" remote="styx" >
