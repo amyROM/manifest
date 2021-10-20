@@ -21,6 +21,9 @@ lunch amy_<codename>-eng
 mka bacon -j8
 ```
 
+Relase Post Headers
+-------------------
+Header images are updated with each release. They are kept in the [assets repo](https://github.com/amyROM/assets)
 
 Submitting patches
 ------------------
