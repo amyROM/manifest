@@ -60,6 +60,7 @@
   <remove-project name="platform/frameworks/native" />
 
   <!-- Hardware -->
+  <remove-project name="platform/hardware/interfaces" />
   <remove-project name="platform/hardware/libhardware"/>
 
   <!-- libcore -->
@@ -75,6 +76,7 @@
   <!-- System -->
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/memory/lmkd" />
+  <remove-project name="platform/system/security" />
   <remove-project name="platform/system/sepolicy" />
   <remove-project name="platform/system/vold" />
 
