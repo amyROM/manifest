@@ -28,6 +28,7 @@ m styx-ota
  * [**Paranoid Android**](https://github.com/AOSPA)
  * [**ProtonAOSP**](https://github.com/ProtonAOSP)
  * [**PotatoProject**](https://github.com/PotatoProject)
+ * [**GrapheneOS**](https://github.com/GrapheneOS)
  * [**LineageOS**](https://github.com/LineageOS)
  * [**StormbreakerOSS**](https://github.com/StormbreakerOSS)
  * And the list never ends.
