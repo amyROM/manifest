@@ -25,6 +25,7 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
+  <project path="external/aptx" name="notmyst33d/libaptX" remote="github" revision="main" />
   <project path="device/lineage/sepolicy" name="device_lineage_sepolicy" remote="amyROM" />
   <project path="frameworks/base" name="frameworks_base" remote="amyROM" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="amyROM" />
