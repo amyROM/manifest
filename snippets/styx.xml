@@ -5,6 +5,9 @@
            revision="S"
            fetch="https://github.com/StyxProject" />
 
+  <remote  name="github"
+           fetch="https://github.com" />
+
   <!-- Android Runtime -->
   <project path="art" name="art" remote="styx" />
 
@@ -28,6 +31,7 @@
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="styx" />
 
   <!-- External -->
+  <project path="external/Camera" name="GrapheneOS/platform_external_Camera" revision="12" remote="github" />
   <project path="external/noto-fonts" name="external_noto-fonts" remote="styx" />
   <project path="external/roboto-fonts" name="external_roboto-fonts" remote="styx" />
   <project path="external/google-fonts/cutive-mono" name="external_google-fonts_cutive-mono" remote="styx" />
