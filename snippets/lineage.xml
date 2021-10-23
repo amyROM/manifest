@@ -35,7 +35,7 @@
 
   <!-- Prebuilts -->
   <project path="prebuilts/extract-tools" name="android_prebuilts_extract-tools" remote="lineage" clone-depth="1" />
-  <project path="prebuilts/tools-styx" name="android_prebuilts_tools-lineage" remote="lineage" clone-depth="1" />
+  <project path="prebuilts/tools-amy" name="android_prebuilts_tools-lineage" remote="lineage" clone-depth="1" />
 
   <!-- External repos -->
   <project path="external/json-c" name="android_external_json-c" remote="lineage" />
