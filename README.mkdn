@@ -34,22 +34,22 @@ Buildbot
 --------
 All supported devices are built as periodically as possible by maintainers as changes are committed to ensure the source trees remain buildable.
 
-You can download the produced builds done from [amyGSI Channel](https://t.me/amyGSI).
+You can download the produced builds done from [amyGSI Channel](https://t.me/AndroidBrickers).
 
 
 Credits
 -------
-- LineageOS
-- ProtonAOSP
-- crDroid
-- Bliss
-- WaveOS
-- CesiumOS
-- LineageOS Modded
-- Project Sakura
-- GrapheneOS
-- StellarOS
-- DivestOS
+- [LineageOS](https://github.com/LineageOS/)
+- [ProtonAOSP](https://github.com/ProtonAOSP/)
+- [crDroid](https://github.com/crdroidandroid/)
+- [Bliss OS](https://github.com/BlissRoms/)
+- [WaveOS](https://github.com/Wave-Project/)
+- [CesiumOS](https://github.com/CesiumOS/)
+- [LineageOS Modded](https://github.com/los-modded/)
+- [Project Sakura](https://github.com/ProjectSakura/)
+- [GrapheneOS](https://github.com/GrapheneOS/)
+- [StellarOS](https://github.com/stellar-OS/)
+- [DivestOS](https://github.com/divested-mobile/)
 - Fosshost for providing us with Sabina
 
 <hr>
