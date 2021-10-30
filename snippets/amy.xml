@@ -41,4 +41,5 @@
   <project path="packages/apps/Widget" name="packages_apps_Widget" remote="amyROM" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="amyROM" />
   <project path="vendor/amy" name="vendor_amy" remote="amyROM" />
+  <project path="vendor/hardware_overlay" name="phhusson/vendor_hardware_overlay" remote="github" revision="pie" />
 </manifest>
