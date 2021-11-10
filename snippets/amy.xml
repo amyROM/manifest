@@ -33,6 +33,7 @@
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="amyROM" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="amyROM" />
   <project path="packages/apps/LineageParts" name="packages_apps_LineageParts" remote="amyROM" />
+  <project path="packages/apps/LockClock" name="LineageOS/packages_apps_LockClock" remote="github" revision="lineage-16.0" />
   <project path="packages/apps/Messaging" name="LineageOS/android_packages_apps_Messaging" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="amyROM" />
   <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="amyROM" />
