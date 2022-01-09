@@ -1,0 +1,56 @@
+amyROM
+===========
+
+Getting started
+---------------
+
+To get started with Android/amyROM, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
+
+To initialize your local repository using the amyROM trees, use a command like this:
+```
+repo init -u git://github.com/amyROM/android.git -b rosie-lts
+```
+Then to sync up:
+```
+repo sync -j$(nproc --all)
+```
+After setting up device trees, to build, use these commands, adapting 2nd one accordingly:
+```
+. build/envsetup.sh
+lunch amy_<codename>-eng
+m bacon -j8
+```
+
+Relase Post Headers
+-------------------
+Header images are updated with each release. They are kept in the [assets repo](https://github.com/amyROM/assets)
+
+Submitting patches
+------------------
+Patches are always welcome! Just fork the relevant repository and create pull request. Make sure the commit name format is the same as on base repo. Otherwise, your pull request is most likely to be rejected.
+
+Buildbot
+--------
+All supported devices are built as periodically as possible by maintainers as changes are committed to ensure the source trees remain buildable.
+
+You can download the produced builds done from [amyGSI Channel](https://t.me/AndroidBrickers).
+
+Credits
+-------
+- [LineageOS](https://github.com/LineageOS/)
+- [ProtonAOSP](https://github.com/ProtonAOSP/)
+- [crDroid](https://github.com/crdroidandroid/)
+- [Bliss](https://github.com/BlissRoms/)
+- [WaveOS](https://github.com/Wave-Project/)
+- [CesiumOS](https://github.com/CesiumOS/)
+- [LineageOS Modded](https://github.com/los-modded/)
+- [Project Sakura](https://github.com/ProjectSakura/)
+- [GrapheneOS](https://github.com/GrapheneOS/)
+- [StellarOS](https://github.com/stellar-OS/)
+- [DivestOS](https://github.com/divested-mobile/)
+- [phh](https://github.com/phhusson/)
+- Fosshost for providing us with Sabina
+
+<hr>
+
+<img src="https://sabina.amyrom.ml/fosshost.org_Host_Dark.png" alt="Proudly hosted at Fosshost" width="200">
