@@ -332,7 +332,7 @@
   <project name="packages_apps_Settings" path="packages/apps/Settings" remote="amyROM" revision="7ec3e39797a257aea1f880466af26cf68823ab4c" upstream="rosie" dest-branch="rosie"/>
   <project name="packages_apps_SetupWizard" path="packages/apps/SetupWizard" remote="amyROM" revision="0704e1d44def3c176bd16dc3ecb03fec519daf67" upstream="rosie" dest-branch="rosie"/>
   <project name="packages_apps_Trebuchet" path="packages/apps/Trebuchet" remote="amyROM" revision="737920f47a6fbaa0afef11a55422644006edf2b9" upstream="rosie" dest-branch="rosie"/>
-  <project name="packages_apps_Updater" path="packages/apps/Updater" remote="amyROM" revision="18a151f9ee8a65bde21bbc8d9b2851eb45592d3d" upstream="rosie-lts" dest-branch="rosie-lts"/>
+  <project name="packages_apps_Updater" path="packages/apps/Updater" remote="amyROM" revision="120cf3d2680fdf44bef86aac6bbac8f31bdc0060" upstream="rosie-lts" dest-branch="rosie-lts"/>
   <project name="packages_apps_Widget" path="packages/apps/Widget" remote="amyROM" revision="cb12e9b4139ad41eef81ad2e5e6a577e3a617a9c" upstream="rosie" dest-branch="rosie"/>
   <project name="packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="amyROM" revision="c4ff61a44f58eff964cc3d291453543beebb96f3" upstream="rosie" dest-branch="rosie"/>
   <project name="platform/compatibility/cdd" path="compatibility/cdd" remote="aosp" revision="88cb8ac742cb42fd00470cca6eab4b24e8021850" upstream="refs/tags/android-11.0.0_r46" dest-branch="refs/tags/android-11.0.0_r46" groups="pdk"/>
