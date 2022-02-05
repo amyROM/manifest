@@ -8,7 +8,7 @@ To get started with Android/amyROM, you'll need to get familiar with [Source Con
 
 To initialize your local repository using the amyROM trees, use a command like this:
 ```
-repo init -u git://github.com/amyROM/android.git -b rosie
+repo init -u git://github.com/amyROM/manifest.git -b rosie
 ```
 Then to sync up:
 ```
