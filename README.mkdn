@@ -42,7 +42,7 @@ Credits
 - [LineageOS](https://github.com/LineageOS/)
 - [ProtonAOSP](https://github.com/ProtonAOSP/)
 - [crDroid](https://github.com/crdroidandroid/)
-- [Bliss OS](https://github.com/BlissRoms/)
+- [BlissROM](https://github.com/BlissRoms/)
 - [WaveOS](https://github.com/Wave-Project/)
 - [CesiumOS](https://github.com/CesiumOS/)
 - [LineageOS Modded](https://github.com/los-modded/)
