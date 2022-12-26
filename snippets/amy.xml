@@ -10,6 +10,8 @@
           revision="rosie" />
 
   <!-- amyROM additions -->
+  <project path="frameworks/base" name="frameworks_base" remote="amyROM" />
   <project path="manifest" name="manifest" remote="amyROM" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="amyROM" />
   <project path="vendor/lineage" name="vendor_amy" remote="amyROM" />
 </manifest>
