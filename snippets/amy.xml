@@ -3,11 +3,11 @@
 
   <remote name="amyROM"
            fetch="https://github.com/amyROM/"
-           revision="rosie" />
+           revision="reborn" />
   
   <remote name="devices"
           fetch="https://github.com/amyROM-devices/"
-          revision="rosie" />
+          revision="reborn" />
 
   <!-- amyROM additions -->
   <project path="frameworks/base" name="frameworks_base" remote="amyROM" />
