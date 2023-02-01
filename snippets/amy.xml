@@ -14,4 +14,8 @@
   <project path="manifest" name="manifest" remote="amyROM" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="amyROM" />
   <project path="vendor/lineage" name="vendor_amy" remote="amyROM" />
+  <project path="packages/apps/Trebuchet" name="packages_apps_Trebuchet" remote="amyROM" />
+
+  <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="amyROM" revision="rosie" />
+  <project path="packages/apps/LineageParts" name="packages_apps_LineageParts" remote="amyROM" revision="rosie" />
 </manifest>
