@@ -7,9 +7,11 @@
   <!-- Remove repos -->
   <remove-project name="LineageOS/android_frameworks_base" />
   <remove-project name="LineageOS/android_packages_apps_Settings" />
+  <remove-project name="LineageOS/android_vendor_lineage" />
 
   <!-- amyROM additions -->
   <project path="frameworks/base" remote="amy" name="frameworks_base" />
   <project path="packages/apps/Settings" remote="amy" name="packages_apps_Settings" />
+  <project path="vendor/amy" remote="amy" name="vendor_amy" />
   <project path="vendor/support" remote="amy" name="vendor_support" />
 </manifest>
