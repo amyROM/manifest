@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="amy"
+      fetch="https://github.com/amyROM"
+      revision="refs/heads/tegan" />
+
+  <!-- Remove repos -->
+  <remove-project name="LineageOS/android_frameworks_base" />
+  <remove-project name="LineageOS/android_packages_apps_Settings" />
+
+  <!-- amyROM additions -->
+  <project path="frameworks/base" remote="amy" name="frameworks_base" />
+  <project path="packages/apps/Settings" remote="amy" name="packages_apps_Settings" />
+  <project path="vendor/support" remote="amy" name="vendor_support" />
+</manifest>
