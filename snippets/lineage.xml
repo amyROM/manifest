@@ -173,5 +173,5 @@
   <project path="vendor/qcom/opensource/wfd-commonsys" name="LineageOS/android_vendor_qcom_opensource_wfd-commonsys" groups="qcom,pdk" />
 
   <!-- Tools -->
-  <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
+  <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="main" />
 </manifest>
